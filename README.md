@@ -1,8 +1,13 @@
 # **Introduction**
 Hey there! My name is Andrew Flores and I'm an up-and-coming computer programmer. 
+
 This page is here to serve as a sort of library for personal projects and other 
+
 Computer Science related endeavors I've worked on throughout my High School career!
-Additionally, this page is ordered by classes and the school year in which I took them in order to allow for easy access to specific projects and files.
+
+Additionally, this page is ordered by classes and the school year in which I took 
+
+them in order to allow for easy access to specific projects and files.
 
 # **Computer Programming 2019-2020** 
 # **AP Computer Science 2020-2021** 
