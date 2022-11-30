@@ -24,8 +24,8 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 
 # **Personal Projects and Contributions 2004-Present**
 Be it through my personal hobbies, friends, or other opportunities given to me, throughout my life I have contributed to or participated in the following:
--Beta tester for the Undertale Fangame "Team Switched!Underswap" (Credited as Dr. Magnum)
--Created a YouTube channel where I upload covers and original compositions. This channel can be found [here.](https://www.youtube.com/@Dr.Magnum)
+- Beta tester for the Undertale Fangame "Team Switched!Underswap" (Credited as Dr. Magnum)
+- Created a YouTube channel where I upload covers and original compositions. This channel can be found [here.](https://www.youtube.com/@Dr.Magnum)
 <details><summary>CLICK ME</summary>d
 <p>
 
