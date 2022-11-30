@@ -19,6 +19,8 @@ Stuff we did during Practicum of IT
 <details><summary>CLICK ME</summary>
 <p>
 
+# **Personal Projects and Contributions 2004-Present**
+
 #### We can hide anything, even code!
 
 ```ruby
