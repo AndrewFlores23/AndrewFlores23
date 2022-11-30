@@ -16,10 +16,11 @@ Stuff we did during Practicum of IT
 
 ![This is an image](https://media.tenor.com/zF4cC3KCA1gAAAAM/chihuahua-rainbow.gif)
 ![This is an image](https://i.kym-cdn.com/photos/images/newsfeed/001/760/924/cbd.jpg)
+# **Personal Projects and Contributions 2004-Present**
+
 <details><summary>CLICK ME</summary>
 <p>
 
-# **Personal Projects and Contributions 2004-Present**
 
 #### We can hide anything, even code!
 
