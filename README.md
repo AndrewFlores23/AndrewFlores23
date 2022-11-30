@@ -29,7 +29,7 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 - Regional Competitor for UIL Computer Science (2021-2022)
 - State Competitor for BPA Java Programming (2021-2022)
 ## **Examples of some of my music production:**
-<details><summary>Click Here!</summary>d
+<details><summary>Click Here!</summary>
 <p>
 
 
