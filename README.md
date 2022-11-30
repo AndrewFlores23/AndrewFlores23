@@ -8,7 +8,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 # **Computer Programming 2019-2020** 
 -Learned basic Java programming, with a focus on variable types, loops, and lists.
 # **AP Computer Science 2020-2021** 
--Deepened my understanding of Java Programming, 
+-Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
 # **Computer Programming II 2021-2022** 
 Throughout Computer Programming II, I contributed to or participated in the following:
 - Raspberry PI desktop  and workstation setup.
