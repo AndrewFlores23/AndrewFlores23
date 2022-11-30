@@ -10,15 +10,23 @@ Additionally, this page is ordered by classes and the school year in which I too
 # **AP Computer Science 2020-2021** 
 
 # **Computer Programming II 2021-2022** 
+Throughout Computer Programming II, I contributed to or participated in the following:
+- Raspberry PI desktop  and workstation setup.
+- Learnt how to properly utilize Linux interfaces and command prompt interfaces.
+- Achieving a Java Certification.
+- Learning the basics of github page creation.
 
 # **Practicum of IT 2022-2023** 
-Stuff we did during Practicum of IT
+Throughout Practicum of IT, I contributed to or participated in the following:
+- Creation of a Discord bot capable of returning a user's join date, uploading images, providing comedic commentary, and other useful functions.
+- Achieving a Python Certification (In Progress)
+- 
 
-![This is an image](https://media.tenor.com/zF4cC3KCA1gAAAAM/chihuahua-rainbow.gif)
-![This is an image](https://i.kym-cdn.com/photos/images/newsfeed/001/760/924/cbd.jpg)
 # **Personal Projects and Contributions 2004-Present**
-
-<details><summary>CLICK ME</summary>
+Be it through my personal hobbies, friends, or other opportunities given to me, throughout my life I have contributed to or participated in the following:
+-Beta tester for the Undertale Fangame "Team Switched!Underswap" (Credited as Dr. Magnum)
+-Created a YouTube channel where I upload covers and original compositions. This channel can be found [here.](https://www.youtube.com/@Dr.Magnum)
+<details><summary>CLICK ME</summary>d
 <p>
 
 
