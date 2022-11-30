@@ -1,12 +1,12 @@
 # **Introduction**
 Hey there! My name is Andrew Flores I'm an up-and-coming computer programmer and amateur musician. 
 
-This page is here to serve as a sort of library for personal projects involving Computer Science, Music Production, and other related endeavors I have worked on throughout my High School career.
+This page is here to serve as a sort of library for personal projects involving Computer Science, Music Production, and other related endeavors I have worked on throughout my personal life and High School career.
 
 Additionally, this page is ordered by classes and the school year in which I took them in order to allow for easy access to specific projects and files.
 
 # **Computer Programming 2019-2020** 
--Learned basic Java Programming, with focus on variable types, loops, and lists.
+-Learned basic Java programming, with a focus on variable types, loops, and lists.
 # **AP Computer Science 2020-2021** 
 -Deepened my understanding of Java Programming, 
 # **Computer Programming II 2021-2022** 
@@ -19,6 +19,7 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 # **Practicum of IT 2022-2023** 
 Throughout Practicum of IT, I contributed to or participated in the following:
 - Creation of a Discord bot capable of returning a user's join date, uploading images, providing comedic commentary, and other useful functions.
+- Learned basic Python programming
 - Achieving a Python Certification (In Progress)
 - 
 
@@ -28,6 +29,8 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 - Created a YouTube [channel](https://www.youtube.com/@Dr.Magnum) where I upload covers and original compositions.
 - Regional Competitor for UIL Computer Science (2021-2022)
 - State Competitor for BPA Java Programming (2021-2022)
+- State Medalist for the UIL Latino History Essay Competition.
+- 
 ## **Examples of some of my music production:**
 <details><summary>Click Here!</summary>
 <p>
