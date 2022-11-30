@@ -6,13 +6,13 @@ This page is here to serve as a sort of library for personal projects and other 
 Additionally, this page is ordered by classes and the school year in which I took them in order to allow for easy access to specific projects and files.
 
 # **Computer Programming 2019-2020** 
-
+-Learned basic Java Programming, with focus on variable types, loops, and lists.
 # **AP Computer Science 2020-2021** 
-
+-Deepened my understanding of Java Programming, 
 # **Computer Programming II 2021-2022** 
 Throughout Computer Programming II, I contributed to or participated in the following:
 - Raspberry PI desktop  and workstation setup.
-- Learnt how to properly utilize Linux interfaces and command prompt interfaces.
+- Learned how to properly utilize Linux interfaces and command prompt interfaces.
 - Achieving a Java Certification.
 - Learning the basics of github page creation.
 
@@ -22,19 +22,24 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 - Achieving a Python Certification (In Progress)
 - 
 
-# **Personal Projects and Contributions 2004-Present**
+# **Personal Projects, Achievements, and Contributions 2004-Present**
 Be it through my personal hobbies, friends, or other opportunities given to me, throughout my life I have contributed to or participated in the following:
 - Beta tester & Play tester for the Undertale Fangame "TeamSwitched!Underswap" (Credited as Dr. Magnum)
 - Created a YouTube [channel](https://www.youtube.com/@Dr.Magnum) where I upload covers and original compositions.
-<details><summary>CLICK ME</summary>d
+- Regional Competitor for UIL Computer Science (2021-2022)
+- State Competitor for BPA Java Programming (2021-2022)
+## **Examples of some of my music production:**
+<details><summary>Click Here!</summary>d
 <p>
 
 
-#### We can hide anything, even code!
+#### Chiptune Covers
 
-```ruby
-   puts "Hello World"
-```
+#### Techno Covers
+
+#### Piano Covers
+
+#### Original Compositions
 
 </p>
 </details>
