@@ -10,7 +10,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 <p>
   
 - Learned basic Java programming, with a focus on variable types, loops, and lists.
-  
+- Solved the 
 </p>
 </details>
 
