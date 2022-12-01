@@ -53,7 +53,7 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 <p>
   
 Be it through my personal hobbies, friends, or other opportunities given to me, throughout my life I have contributed to or participated in the following:
-- Beta tester & Play tester for the Undertale Fangame "TeamSwitched!Underswap" (Credited as Dr. Magnum)
+- Beta tester & Play tester for the Undertale Fangame "[TeamSwitched!Underswap](https://gamejolt.com/games/tsunderswap/160094)" (Credited as Dr. Magnum)
 - Created a YouTube [channel](https://www.youtube.com/@Dr.Magnum) where I upload covers and original compositions.
 - Regional Competitor for UIL Computer Science (2021-2022)
 - State Competitor for BPA Java Programming (2021-2022)
