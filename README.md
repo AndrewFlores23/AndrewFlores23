@@ -4,9 +4,11 @@ Hey there! My name is Andrew Flores I'm an up-and-coming computer programmer and
 This page is here to serve as a sort of library for personal projects involving Computer Science, Music Production, and other related endeavors I have worked on throughout my personal life and High School career.
 
 Additionally, this page is ordered by classes and the school year in which I took them in order to allow for easy access to specific projects and files.
-
-# **Computer Programming 2019-2020** 
+<details><summary># **Computer Programming 2019-2020**</summary>
+<p>
 -Learned basic Java programming, with a focus on variable types, loops, and lists.
+  </p>
+</details>
 # **AP Computer Science 2020-2021** 
 -Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
 # **Computer Programming II 2021-2022** 
