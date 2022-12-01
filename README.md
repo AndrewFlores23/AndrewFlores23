@@ -9,7 +9,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 <details><summary>CLICK HERE</summary>
 <p>
   
--Learned basic Java programming, with a focus on variable types, loops, and lists.
+- Learned basic Java programming, with a focus on variable types, loops, and lists.
   
 </p>
 </details>
@@ -18,7 +18,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 <details><summary>CLICK HERE</summary>
 <p>
   
--Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
+- Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
 
 </p>
 </details>
