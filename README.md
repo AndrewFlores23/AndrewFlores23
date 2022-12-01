@@ -67,7 +67,7 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 
 
 ##### Chiptune Covers
-
+https://www.youtube.com/@Dr.Magnum
 ##### Techno Covers
 
 ##### Piano Covers
