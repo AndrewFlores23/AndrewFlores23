@@ -5,7 +5,7 @@ This page is here to serve as a sort of library for personal projects involving 
 
 Additionally, this page is ordered by classes and the school year in which I took them in order to allow for easy access to specific projects and files.
 
-# **Computer Programming 2019-2020**
+## **Computer Programming 2019-2020**
 <details><summary>CLICK HERE</summary>
 <p>
   
@@ -14,7 +14,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 </p>
 </details>
 
-# **AP Computer Science 2020-2021** 
+## **AP Computer Science 2020-2021** 
 <details><summary>CLICK HERE</summary>
 <p>
   
@@ -23,7 +23,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 </p>
 </details>
 
-# **Computer Programming II 2021-2022** 
+## **Computer Programming II 2021-2022** 
 <details><summary>CLICK HERE</summary>
 <p>
   
@@ -36,7 +36,7 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 </p>
 </details>
 
-# **Practicum of IT 2022-2023** 
+## **Practicum of IT 2022-2023** 
 <details><summary>CLICK HERE</summary>
 <p>
   
@@ -49,7 +49,7 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 </p>
 </details>
 
-# **Personal Projects, Achievements, and Contributions 2004-Present**
+## **Personal Projects, Achievements, and Contributions 2004-Present**
 <details><summary>CLICK HERE</summary>
 <p>
   
