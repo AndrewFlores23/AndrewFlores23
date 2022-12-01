@@ -66,6 +66,7 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 
 </p>
 </details>
+  
 </p>
 </details>
 
