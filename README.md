@@ -51,18 +51,18 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 - State Competitor for BPA Java Programming (2021-2022)
 - State Medalist for the UIL Latino History Essay Competition.
 - 
-## **Examples of some of my music production:**
+#### **Examples of some of my music production:**
 <details><summary>Click Here!</summary>
 <p>
 
 
-#### Chiptune Covers
+##### Chiptune Covers
 
-#### Techno Covers
+##### Techno Covers
 
-#### Piano Covers
+##### Piano Covers
 
-#### Original Compositions
+##### Original Compositions
 
 </p>
 </details>
