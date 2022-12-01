@@ -44,7 +44,6 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 - Creation of a Discord bot capable of returning a user's join date, uploading images, providing comedic commentary, and other useful functions.
 - Learned basic Python programming
 - Achieving a Python Certification (In Progress)
-- 
   
 </p>
 </details>
@@ -59,7 +58,6 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 - Regional Competitor for UIL Computer Science (2021-2022)
 - State Competitor for BPA Java Programming (2021-2022)
 - State Medalist for the UIL Latino History Essay Competition.
-- 
   
 #### **Examples of some of my music production:**
 <details><summary>Click Here!</summary>
