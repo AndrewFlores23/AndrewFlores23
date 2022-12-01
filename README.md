@@ -7,7 +7,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 <details><summary># **Computer Programming 2019-2020**</summary>
 <p>
 -Learned basic Java programming, with a focus on variable types, loops, and lists.
-  </p>
+</p>
 </details>
 # **AP Computer Science 2020-2021** 
 -Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
