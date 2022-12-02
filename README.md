@@ -19,14 +19,23 @@ Additionally, this page is ordered by classes and the school year in which I too
 	> from 0-9 and that you reset the number to 0 when you get to a count > 9.  
 	
 	> Sample Data:
+		
 	> abcdef
+		
 	> hhhhhhh
+		
 	> aaaaaaa
+		
 	> catpigdatrathogbogfrogmoosegeese
+		
 	> hhhhhhh1234356HHHHDH
+		
 	> AEIOUaeiou87878alkjdaslwlejrlajflawjkflwj
+		
 	> 
+		
 	> x
+		
 	> e
 		
 	</p>
