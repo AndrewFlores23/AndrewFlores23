@@ -22,7 +22,6 @@ Additionally, this page is ordered by classes and the school year in which I too
   ```Java
 		
   	public static String getNumberString( String s){
-	
 		String fin="";
 		int count=0;
 		for(int i=0; i<s.length();i++) {
@@ -39,7 +38,6 @@ Additionally, this page is ordered by classes and the school year in which I too
 		}
 		return fin;
 	}
-  
   ```
 		
 	</p>
