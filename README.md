@@ -11,9 +11,17 @@ Additionally, this page is ordered by classes and the school year in which I too
   
 - Learned basic Java programming, with a focus on variable types, loops, and lists.
 - Solved the (At the time) challenging problem: "VowelCounter".
+	<details><summary>Problem</summary>
+	<p>
+	
+	</p>
+	</details>
+	
+	<details><summary>Solution</summary>
+	<p>	
   ```Java
-  	public static String getNumberString( String s)
-	{
+  	public static String getNumberString( String s){
+	
 		String fin="";
 		int count=0;
 		for(int i=0; i<s.length();i++) {
@@ -32,6 +40,8 @@ Additionally, this page is ordered by classes and the school year in which I too
 	}
   
   ```
+	</p>
+	</details>
 </p>
 </details>
 
