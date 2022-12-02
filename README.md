@@ -13,7 +13,22 @@ Additionally, this page is ordered by classes and the school year in which I too
 - Solved the (At the time) challenging problem: "VowelCounter".
 	<details><summary>Problem</summary>
 	<p>
+		
+	> Change all of the vowels in the String to numbers.  Make sure the numbers range 
+		
+	> from 0-9 and that you reset the number to 0 when you get to a count > 9.  
 	
+	> Sample Data:
+	> abcdef
+	> hhhhhhh
+	> aaaaaaa
+	> catpigdatrathogbogfrogmoosegeese
+	> hhhhhhh1234356HHHHDH
+	> AEIOUaeiou87878alkjdaslwlejrlajflawjkflwj
+	> 
+	> x
+	> e
+		
 	</p>
 	</details>
 	
