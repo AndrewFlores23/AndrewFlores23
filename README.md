@@ -19,7 +19,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 	
 	<details><summary>Solution</summary>
 	<p>	
-  ```Java
+ 	```Java
 		
   	public static String getNumberString( String s){
 		String fin="";
@@ -38,7 +38,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 		}
 		return fin;
 	}
-  ```
+  	```
 		
 	</p>
 	</details>
