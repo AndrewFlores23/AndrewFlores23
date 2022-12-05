@@ -123,7 +123,7 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 
 
 ##### Chiptune Covers
-[Magnet Man's Stage (MMII) Cover](https://youtu.be/-tfT5oIRvnM)
+- [Magnet Man's Stage (MMII) Cover](https://youtu.be/-tfT5oIRvnM)
 ##### Techno Covers
 
 ##### Piano Covers
