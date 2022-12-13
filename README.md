@@ -97,7 +97,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 	}
 		
 	public static int FibonacciNumber(int position) //essentially just serves to make the original input 
-							//look pretty (so it's only 1 number you have to input istead of 3)
+						 	 //look pretty (so it's only 1 number you have to input istead of 3)
 	{
 		if(position==1) 
 		{
