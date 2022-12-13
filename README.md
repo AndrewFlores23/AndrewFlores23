@@ -83,7 +83,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 	<p>
 		
 	```Java
-	public static int FibonacciSequence(int current, int previous, int length) 
+	public static int FibonacciSequence(int current, int previous, int length) //calculates numbers in the fibonacci sequence.
 	{
 		if(length>0) 
 		{
@@ -96,7 +96,8 @@ Additionally, this page is ordered by classes and the school year in which I too
 		return current;
 	}
 		
-	public static int FibonacciNumber(int position) 
+	public static int FibonacciNumber(int position) //essentially just serves to make the original input 
+		+ look pretty (so it's only 1 number you have to input istead of 3)
 	{
 		if(position==1) 
 		{
@@ -113,7 +114,8 @@ Additionally, this page is ordered by classes and the school year in which I too
 		
 	public static void main(String[] args) 
 	{
-		System.out.println(FibonacciNumber(10));
+		int count=10; //change it to whatver position you want in the fibonnaci sequence.
+		System.out.println(FibonacciNumber(count));
 	}
 		
 	```
