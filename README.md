@@ -77,11 +77,49 @@ Additionally, this page is ordered by classes and the school year in which I too
 <p>
   
 - Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
-- Learned how to pprperly use recursion to create useful output (Such as creating a program that returns numbers in the Fibonacci Sequence)
+- Learned how to pprperly use recursion to create useful output (Such as a program that returns numbers in the Fibonacci Sequence)
+	
 	<details><summary>Example of Fibonacci Program</summary>
 	<p>
-	yippe
+		
+	```Java
+	public static int FibonacciSequence(int current, int previous, int length) 
+	{
+		if(length>0) 
+		{
+			int temp=current+previous;
+			previous=current;
+			current=temp;
+			return(FibonacciSequence(current, previous, length-1));
+		}
+		
+		return current;
+	}
+		
+	public static int FibonacciNumber(int position) 
+	{
+		if(position==1) 
+		{
+			return 0;
+		}
+		
+		if(position==2)
+		{
+			return 1;
+		}
+		
+		return FibonacciSequence(0,1,position-1);
+	}
+		
+	public static void main(String[] args) 
+	{
+		System.out.println(FibonacciNumber(10));
+	}
+		
+	```
+		
 	</p>
+		
 </p>
 </details>
 
