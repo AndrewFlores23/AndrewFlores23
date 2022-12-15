@@ -172,10 +172,9 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 	</details>
 		<details><summary>More Examples (Lengthier)</summary>
 		<p>
-			
-		#Commands
 		
 		```Python
+		#Commands
 			
 		import discord
 		import random
@@ -244,7 +243,7 @@ Throughout Practicum of IT, I contributed to or participated in the following:
     		await ctx.send("Joined "+duration+" hours ago.")
 		discord_bot.run(TOKEN)	
 			
-		```	
+		```
 		</p>	
 		</details>
 		
