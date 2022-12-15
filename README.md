@@ -245,7 +245,9 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 		
 	</p>
 	</details>
-
+</p>
+</details>
+              
 ## **Personal Projects, Achievements, and Contributions 2004-Present**
 <details><summary>CLICK HERE</summary>
 <p>
