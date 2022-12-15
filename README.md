@@ -168,13 +168,15 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 	client.run(TOKEN)
 			
 	```
+	</p>
+	</details>
 		
 		<details><summary>More Examples (Lengthier)</summary>
 		<p>
 			
 		#Commands
 		
-		``Python
+		```Python
 			
 		import discord
 		import random
@@ -247,9 +249,6 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 			
 		</p>	
 		</details>
-		
-	</p>	
-	</details>
 		
 </p>
 </details>
