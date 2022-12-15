@@ -170,7 +170,6 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 	```
 	</p>
 	</details>
-		
 		<details><summary>More Examples (Lengthier)</summary>
 		<p>
 			
