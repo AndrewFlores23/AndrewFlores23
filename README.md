@@ -244,8 +244,6 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 		discord_bot.run(TOKEN)	
 			
 		```
-		</p>	
-		</details>
 		
 </p>
 </details>
