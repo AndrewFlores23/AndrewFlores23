@@ -132,7 +132,7 @@ Additionally, this page is ordered by classes and the school year in which I too
 Throughout Computer Programming II, I contributed to or participated in the following:
 - Raspberry PI desktop  and workstation setup.
 - Learned how to properly utilize Linux interfaces and command prompt interfaces.
-- Achieving a Java Certification.
+- Achieving a Java Certification MTA: Introduction to Programming Using Java [Found Here](https://www.credly.com/badges/19f80676-15d3-48bb-8a3f-3b7ef92afd1a/public_url ).
 - Learning the basics of github page creation.
   
 </p>
@@ -145,7 +145,7 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 Throughout Practicum of IT, I contributed to or participated in the following:
 - Creation of a Discord bot capable of returning a user's join date, uploading images, providing comedic commentary, and other useful functions.
 - Learned basic Python programming
-- Achieving a Python Certification (In Progress)
+- Achieving a Python Certification ([PCEP-30-02] PCEP – Certified Entry-Level Python Programmer) [Found Here](https://www.credly.com/badges/6f038b9c-e571-4d2e-8d79-51f3505fb7ee/public_url)
   
 </p>
 </details>
@@ -169,11 +169,12 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 ##### Chiptune Covers
 - [Magnet Man's Stage (MMII) Cover](https://youtu.be/-tfT5oIRvnM)
 ##### Techno Covers
-
+- (W.I.P)
 ##### Piano Covers
-
+- (W.I.P)
 ##### Original Compositions
-
+- (W.I.P)
+	
 </p>
 </details>
   
