@@ -143,9 +143,9 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 <p>
   
 Throughout Practicum of IT, I contributed to or participated in the following:
-- Creation of a Discord bot capable of returning a user's join date, uploading images, providing comedic commentary, and other useful functions.
 - Learned basic Python programming
 - Achieving a Python Certification ([PCEP-30-02] PCEP – Certified Entry-Level Python Programmer) [Found Here](https://www.credly.com/badges/6f038b9c-e571-4d2e-8d79-51f3505fb7ee/public_url)
+- Creation of a Discord bot capable of returning a user's join date, uploading images, providing comedic commentary, and other useful functions.
   
 </p>
 </details>
