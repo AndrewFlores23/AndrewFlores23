@@ -78,7 +78,7 @@ Additionally, this page is ordered by classes and the school year in which I too
   
 - Deepened my understanding of Java Programming, focusing on Arrays, ArrayLists, and Recursion. 
 - Learned how to properly use recursion to create useful output such as a program that returns numbers in the 
-Fibonacci Sequence (A series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. Usually Beginning with 0 & 1)
+Fibonacci Sequence (A series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. Usually Beginning with 0,1,1)
 	
 	
 	<details><summary>Example of Fibonacci Program</summary>
