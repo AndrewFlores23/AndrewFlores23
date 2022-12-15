@@ -170,83 +170,81 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 	```
 	</p>
 	</details>
-		<details><summary>More Examples (Lengthier)</summary>
-		<p>
+	
+	<details><summary>More Examples (Lengthier)</summary>
+	<p>
 		
-		```Python
-		#Commands
-			
-		import discord
-		import random
-		import datetime as dt
-		from dotenv import load_dotenv
-		import youtube_dl
-		from discord.ext import commands, tasks
-		import os
-
-		TOKEN = "Discord Bot Token Went Here"
-
-		intents = discord.Intents.all()
-		client = discord.Client(intents=intents)
-		os.chdir(r"C:\Users\'name of user goes here'\Desktop\BotImages")
-		discord_bot = commands.Bot(command_prefix='!', intents=intents)
-
-
-		@discord_bot.command(name='morningquote')
-		async def msg(ctx):
- 		   quotes = [
-		        "It's a new day",
-		        (
-   		         "Be positive"
- 		       ),
-		    ]
-		    response = random.choice(quotes)
-		    await ctx.send(response)
-
-
-		@discord_bot.command(name='glissy')
-		async def msg(ctx):
-		    quotes = [
-		        "This moment\'s glissy word of the day is: Capybara",
-		        (
-		            "This moment\'s glissy word of the day is: DaBaby"
- 		       ),
- 		   ]
-		    response = random.choice(quotes)
-  		  await ctx.send(response)
-
-
-		@discord_bot.command(name='funnypic')
-		async def send_img(ctx):
-		    pics = [
-		        'wildcat.png', 'dog.png', 'makeup-eyebrows16.jpg',
-		        (
-  		          'el grande.png'
-  		      ),
-  		  ]
- 		   result = random.choice(pics)
- 		   await ctx.send("le funny", file=discord.File(result))
-
-
-		@discord_bot.command(name='lacreatura')
-		async def send_img(ctx):
- 		   await ctx.send("her", file=discord.File('neko.jpg'))
-		import datetime as dt
-
-		@discord_bot.command(name='arrival')
-		async def joined(ctx):
-
-		    dia = dt.datetime.now()
-		    stay= (ctx.author.joined_at)
-		    duration = str(dia - stay.replace(tzinfo=None))
-
-    		await ctx.send("Joined "+duration+" hours ago.")
-		discord_bot.run(TOKEN)	
-			
-		```
+	```Python
+	#Commands			
+	import discord
+	import random		
+	import datetime as dt
+	from dotenv import load_dotenv
+	import youtube_dl
+	from discord.ext import commands, tasks
+	import os
 		
-</p>
-</details>
+	TOKEN = "Discord Bot Token Went Here"
+
+	intents = discord.Intents.all()
+	client = discord.Client(intents=intents)
+	os.chdir(r"C:\Users\'name of user goes here'\Desktop\BotImages")
+	discord_bot = commands.Bot(command_prefix='!', intents=intents)
+
+
+	@discord_bot.command(name='morningquote')
+	async def msg(ctx):
+ 	   quotes = [
+	        "It's a new day",
+	        (
+   	         "Be positive"
+ 	       ),
+	    ]
+	    response = random.choice(quotes)
+	    await ctx.send(response)
+
+
+	@discord_bot.command(name='glissy')
+	async def msg(ctx):
+	    quotes = [
+	        "This moment\'s glissy word of the day is: Capybara",
+	        (
+	            "This moment\'s glissy word of the day is: DaBaby"
+ 	       ),
+ 	   ]
+	    response = random.choice(quotes)
+  	  await ctx.send(response)
+
+	@discord_bot.command(name='funnypic')
+	async def send_img(ctx):
+	    pics = [
+	        'wildcat.png', 'dog.png', 'makeup-eyebrows16.jpg',
+	        (
+  	          'el grande.png'
+  	      ),
+  	  ]
+ 	   result = random.choice(pics)
+ 	   await ctx.send("le funny", file=discord.File(result))
+
+
+	@discord_bot.command(name='lacreatura')
+	async def send_img(ctx):
+ 	   await ctx.send("her", file=discord.File('neko.jpg'))
+	import datetime as dt
+
+	@discord_bot.command(name='arrival')
+	async def joined(ctx):
+
+	    dia = dt.datetime.now()
+	    stay= (ctx.author.joined_at)
+	    duration = str(dia - stay.replace(tzinfo=None))
+
+    	await ctx.send("Joined "+duration+" hours ago.")
+	discord_bot.run(TOKEN)	
+	```
+		
+	</p>
+	</details>
 
 ## **Personal Projects, Achievements, and Contributions 2004-Present**
 <details><summary>CLICK HERE</summary>
