@@ -146,6 +146,7 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 	>  We utilized the raspberry pi workstations I mentioned earlier to set up a server that allowed the 3 machines we had set up to communicate with
 	   each other in order to collaborate on programming projects and the like. In turn, we also learned the purpose and benefit of having utilizing a server
 	   (Such as the security benefits and why it's beneficial for computers to not directly connect to one another but simply send their data/signals to the 	    servers which then relay it back to the other machines.)
+		
 	>  Furthermore, in order to set up said server, we had to get familiar with utilizing the command line interface and managing/utilizing data such as our
 	   IP adress and wireless wifi connections.
 		
