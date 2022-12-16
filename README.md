@@ -138,9 +138,17 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 - Learning the basics of github page creation.
 - Sucessfuly set up and created a Java server-client connection project.
 	<details><summary>More Detail<summary>
-	
+	[What is a java server? Infographic](https://i.ytimg.com/vi/iJI404Xzy-g/maxresdefault.jpg)
+		
+	> 
+		
+		
+		
+		
+		
 	</p>
 	</details>
+		
 </p>
 </details>
 
