@@ -143,12 +143,8 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 		
 	![JavaClientServer](https://user-images.githubusercontent.com/104638953/208008827-f06edbcb-ed6c-4600-a3b2-f9ab0fb5b3de.jpg)
 		
-	>  dgfs
-	>
-	>
-	>
-	>
-	>
+	>  We utilized the raspberry pi workstation I mentinoned earlier to set up a server that allowed the 3 machines we had set up to communicate with
+	   each other and 
 		
 		
 		
