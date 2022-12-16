@@ -123,7 +123,7 @@ Fibonacci Sequence (A series of numbers in which each number ( Fibonacci number 
 	```
 		
 	</p>
-		
+	</details?	
 </p>
 </details>
 
@@ -132,11 +132,15 @@ Fibonacci Sequence (A series of numbers in which each number ( Fibonacci number 
 <p>
   
 Throughout Computer Programming II, I contributed to or participated in the following:
-- Raspberry PI desktop  and workstation setup.
+- Raspberry PI desktop and workstation setup.
 - Learned how to properly utilize Linux interfaces and command prompt interfaces.
 - Achieving a Java Certification MTA: Introduction to Programming Using Java [Found Here](https://www.credly.com/badges/19f80676-15d3-48bb-8a3f-3b7ef92afd1a/public_url ).
 - Learning the basics of github page creation.
-  
+- Sucessfuly set up and created a Java server-client connection project.
+	<details><summary>More Detail<summary>
+	
+	</p>
+	</details>
 </p>
 </details>
 
