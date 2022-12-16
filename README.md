@@ -140,8 +140,9 @@ Throughout Computer Programming II, I contributed to or participated in the foll
 	
 	<details><summary>More Detail</summary>
 	<p>
-	![What is a java server? Infographic](https://i.ytimg.com/vi/iJI404Xzy-g/maxresdefault.jpg)
 		
+	![What is a java server Infographic](https://user-images.githubusercontent.com/104638953/208008505-2db0213c-8b1f-4353-8481-1a230541ea6c.jpg)
+
 	>  dgfs
 		
 		
