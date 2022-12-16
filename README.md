@@ -285,11 +285,11 @@ Be it through my personal hobbies, friends, or other opportunities given to me, 
 ##### Chiptune Covers
 - [Magnet Man's Stage (MMII) Cover](https://youtu.be/-tfT5oIRvnM)
 ##### Techno Covers
-- (W.I.P)
+- COMING SOON!
 ##### Piano Covers
-- (W.I.P)
+- COMING SOON!
 ##### Original Compositions
-- (W.I.P)
+- COMING SOON!
 	
 </p>
 </details>
