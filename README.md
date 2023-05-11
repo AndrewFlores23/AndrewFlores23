@@ -1,7 +1,7 @@
 # **Introduction**
 Hey there! My name is Andres Flores I'm an up-and-coming computer programmer and amateur musician. 
 
-This page is here to serve as a sort of library for personal projects involving Computer Science, Music Production, and other related endeavors I have worked on throughout my personal life and High School career.
+This page is here to serve as a sort of library for personal projects involving Computer Science, Music Production, and other related endeavors I have worked on throughout my personal life and Academic career.
 
 Additionally, this page is ordered by classes and the school year in which I took them in order to allow for easy access to specific projects and files.
 
