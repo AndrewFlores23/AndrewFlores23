@@ -263,6 +263,7 @@ Throughout Practicum of IT, I contributed to or participated in the following:
 		
 	</p>
 	</details>
+Learned and familiarized myself with OpenCV and its cv2 functions.
 </p>
 </details>
               
